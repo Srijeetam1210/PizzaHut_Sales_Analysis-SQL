@@ -1,6 +1,5 @@
 # PizzaHut_Sales_Analysis-SQL
 
-# Pizza Hut Sales Analysis - SQL Documentation
 
 ## Overview
 This documentation provides an overview of the SQL-based analysis performed on Pizza Hut sales data. The goal of the analysis was to extract meaningful insights regarding sales performance, popular items, and revenue generation.
